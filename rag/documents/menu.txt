@@ -1,0 +1,281 @@
+RESTAURANT MENU
+
+RESTAURANT NAME
+Urban Bites
+
+CATEGORY: PIZZAS
+
+BBQ Chicken Pizza
+Description: Grilled chicken, BBQ sauce, onions, capsicum, mozzarella cheese.
+Small: Rs. 850
+Medium: Rs. 1200
+Large: Rs. 1550
+
+Chicken Fajita Pizza
+Description: Chicken fajita, onions, capsicum, green chilies, mozzarella cheese.
+Small: Rs. 800
+Medium: Rs. 1150
+Large: Rs. 1500
+
+Chicken Tikka Pizza
+Description: Chicken tikka, onions, tomatoes, green chilies, mozzarella cheese.
+Small: Rs. 800
+Medium: Rs. 1150
+Large: Rs. 1500
+
+Malai Boti Pizza
+Description: Malai boti, creamy sauce, onions, capsicum, mozzarella cheese.
+Small: Rs. 950
+Medium: Rs. 1350
+Large: Rs. 1700
+
+Pepperoni Pizza
+Description: Pepperoni, mozzarella cheese, tomato sauce.
+Small: Rs. 950
+Medium: Rs. 1350
+Large: Rs. 1700
+
+Cheese Lover Pizza
+Description: Extra mozzarella, cheddar, and creamy cheese sauce.
+Small: Rs. 850
+Medium: Rs. 1200
+Large: Rs. 1550
+
+Vegetable Pizza
+Description: Mushrooms, onions, capsicum, tomatoes, olives, and mozzarella cheese.
+Small: Rs. 750
+Medium: Rs. 1050
+Large: Rs. 1400
+
+Fajita Supreme Pizza
+Description: Chicken fajita, mushrooms, olives, onions, capsicum, and extra cheese.
+Small: Rs. 950
+Medium: Rs. 1350
+Large: Rs. 1700
+
+
+CATEGORY: BURGERS
+
+Classic Chicken Burger
+Description: Crispy chicken fillet, lettuce, mayonnaise, and burger sauce.
+Price: Rs. 450
+
+Zinger Burger
+Description: Crispy spicy chicken fillet, lettuce, cheese, and special sauce.
+Price: Rs. 550
+
+Grilled Chicken Burger
+Description: Grilled chicken fillet, lettuce, tomatoes, cheese, and garlic sauce.
+Price: Rs. 600
+
+Chicken Cheese Burger
+Description: Chicken patty, double cheese, lettuce, onions, and burger sauce.
+Price: Rs. 650
+
+Double Chicken Burger
+Description: Two chicken patties, cheese, lettuce, onions, and special sauce.
+Price: Rs. 750
+
+
+CATEGORY: FRIES
+
+Regular Fries
+Price: Rs. 250
+
+Large Fries
+Price: Rs. 400
+
+Masala Fries
+Price: Rs. 350
+
+Cheese Fries
+Price: Rs. 500
+
+Loaded Chicken Fries
+Description: Fries topped with chicken, cheese, and special sauce.
+Price: Rs. 650
+
+
+CATEGORY: CHICKEN
+
+Chicken Wings - 6 Pieces
+Price: Rs. 500
+
+Chicken Wings - 12 Pieces
+Price: Rs. 900
+
+Chicken Nuggets - 6 Pieces
+Price: Rs. 450
+
+Chicken Nuggets - 12 Pieces
+Price: Rs. 800
+
+Chicken Strips - 5 Pieces
+Price: Rs. 500
+
+Chicken Strips - 10 Pieces
+Price: Rs. 900
+
+Chicken Popcorn
+Regular: Rs. 450
+Large: Rs. 700
+
+
+CATEGORY: PASTA
+
+Chicken Alfredo Pasta
+Description: Creamy Alfredo sauce, grilled chicken, and pasta.
+Price: Rs. 750
+
+Chicken Pasta
+Description: Chicken, vegetables, tomato sauce, and pasta.
+Price: Rs. 700
+
+Creamy Mushroom Pasta
+Description: Creamy mushroom sauce with pasta.
+Price: Rs. 650
+
+Spicy Chicken Pasta
+Description: Spicy chicken, vegetables, and creamy sauce.
+Price: Rs. 750
+
+
+CATEGORY: SANDWICHES
+
+Grilled Chicken Sandwich
+Price: Rs. 550
+
+Club Sandwich
+Price: Rs. 650
+
+Chicken Cheese Sandwich
+Price: Rs. 600
+
+Spicy Chicken Sandwich
+Price: Rs. 550
+
+
+CATEGORY: WRAPS
+
+Chicken Mayo Wrap
+Price: Rs. 450
+
+Chicken Cheese Wrap
+Price: Rs. 550
+
+Spicy Chicken Wrap
+Price: Rs. 500
+
+BBQ Chicken Wrap
+Price: Rs. 550
+
+
+CATEGORY: DRINKS
+
+Regular Soft Drink
+Price: Rs. 120
+
+Large Soft Drink
+Price: Rs. 180
+
+Mineral Water
+500ml: Rs. 100
+1.5 Liter: Rs. 180
+
+Fresh Lemonade
+Price: Rs. 250
+
+Mint Margarita
+Price: Rs. 300
+
+
+CATEGORY: DESSERTS
+
+Chocolate Brownie
+Price: Rs. 350
+
+Chocolate Lava Cake
+Price: Rs. 450
+
+Ice Cream Cup
+Price: Rs. 250
+
+Brownie with Ice Cream
+Price: Rs. 550
+
+
+CATEGORY: MEAL DEALS
+
+Deal 1 - Solo Meal
+1 Zinger Burger
+1 Regular Fries
+1 Regular Soft Drink
+Price: Rs. 850
+
+Deal 2 - Burger Combo
+2 Zinger Burgers
+2 Regular Fries
+2 Regular Soft Drinks
+Price: Rs. 1600
+
+Deal 3 - Pizza Combo
+1 Medium BBQ Chicken Pizza
+1 Large Fries
+1.5 Liter Soft Drink
+Price: Rs. 1650
+
+Deal 4 - Family Pizza Deal
+2 Large Pizzas
+2 Large Fries
+1.5 Liter Soft Drink
+Price: Rs. 3500
+
+Deal 5 - Wings Deal
+12 Chicken Wings
+Large Fries
+2 Regular Soft Drinks
+Price: Rs. 1250
+
+Deal 6 - Family Feast
+2 Large Pizzas
+12 Chicken Wings
+2 Large Fries
+1.5 Liter Soft Drink
+Price: Rs. 4700
+
+
+PIZZA CUSTOMIZATION
+
+Extra Cheese: Rs. 150
+Extra Chicken: Rs. 200
+Extra Toppings: Rs. 100 per topping
+Extra Sauce: Rs. 50
+
+Available pizza toppings:
+Onions
+Capsicum
+Mushrooms
+Olives
+Jalapenos
+Tomatoes
+Extra Chicken
+Pepperoni
+
+Customers may request removal of available toppings.
+
+
+SPICE LEVELS
+
+Mild
+Medium
+Spicy
+Extra Spicy
+
+
+IMPORTANT ORDER RULE
+
+Prices listed above are current menu prices for the demo restaurant.
+
+The AI must not invent menu items or prices.
+
+If a customer asks for an item that is not listed, the AI should say that the item is not currently available and may suggest a similar listed item.

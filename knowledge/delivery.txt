@@ -1,0 +1,147 @@
+DELIVERY INFORMATION
+
+RESTAURANT
+Urban Bites
+
+DELIVERY SERVICE
+
+The restaurant provides home delivery within selected areas of Lahore.
+
+STANDARD DELIVERY TIME
+
+Normal delivery time:
+30-60 minutes
+
+During peak hours:
+45-75 minutes
+
+During heavy traffic, rain, or unusually high order volume, delivery may take longer.
+
+
+DELIVERY AREAS AND CHARGES
+
+Johar Town
+Delivery Fee: Rs. 150
+Estimated Time: 30-45 minutes
+
+Township
+Delivery Fee: Rs. 150
+Estimated Time: 30-45 minutes
+
+Model Town
+Delivery Fee: Rs. 200
+Estimated Time: 35-50 minutes
+
+Garden Town
+Delivery Fee: Rs. 200
+Estimated Time: 35-50 minutes
+
+Faisal Town
+Delivery Fee: Rs. 200
+Estimated Time: 35-50 minutes
+
+Gulberg
+Delivery Fee: Rs. 250
+Estimated Time: 40-55 minutes
+
+Wapda Town
+Delivery Fee: Rs. 200
+Estimated Time: 35-50 minutes
+
+DHA Lahore
+Delivery Fee: Rs. 300
+Estimated Time: 45-60 minutes
+
+Bahria Town Lahore
+Delivery Fee: Rs. 350
+Estimated Time: 50-75 minutes
+
+Valencia Town
+Delivery Fee: Rs. 250
+Estimated Time: 40-60 minutes
+
+
+DELIVERY AVAILABILITY
+
+Orders can be placed during restaurant operating hours.
+
+Delivery availability may be temporarily restricted during severe weather or unusual traffic conditions.
+
+
+FREE DELIVERY
+
+Free delivery is available for orders of Rs. 3000 or above.
+
+Free delivery applies only to areas normally served by the restaurant.
+
+The free delivery offer does not apply to areas outside the standard delivery zone.
+
+
+DELIVERY ADDRESS REQUIREMENTS
+
+Customers should provide:
+
+Customer name
+Phone number
+House or building number
+Street number or street name
+Area
+City
+
+Customers should provide a nearby landmark when the address may be difficult to locate.
+
+
+PHONE NUMBER
+
+A valid phone number is required for delivery orders.
+
+The delivery rider may contact the customer when reaching the delivery location.
+
+
+ORDER TRACKING
+
+Customers can ask for their order status.
+
+Possible order statuses:
+
+NEW
+INCOMPLETE
+READY_FOR_CONFIRMATION
+CONFIRMED
+PREPARING
+OUT_FOR_DELIVERY
+DELIVERED
+CANCELLED
+
+
+DELIVERY INSTRUCTIONS
+
+Customers may provide special delivery instructions.
+
+Examples:
+
+"Leave the order with security."
+"Call when you arrive."
+"Do not ring the bell."
+"Deliver to reception."
+
+
+CONTACTLESS DELIVERY
+
+Customers may request contactless delivery.
+
+The customer should mention this in the order instructions.
+
+
+OUTSIDE DELIVERY AREA
+
+If an address is outside the listed delivery areas, the AI must not invent a delivery fee.
+
+The AI should inform the customer that the address needs to be checked manually.
+
+
+IMPORTANT
+
+Delivery time is an estimate, not a guarantee.
+
+The AI must not promise an exact delivery time.

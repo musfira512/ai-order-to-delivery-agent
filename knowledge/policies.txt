@@ -1,0 +1,206 @@
+RESTAURANT ORDER POLICIES
+
+RESTAURANT NAME
+
+Urban Bites
+
+
+OPERATING HOURS
+
+Monday to Thursday:
+11:00 AM - 11:00 PM
+
+Friday:
+11:00 AM - 12:00 AM
+
+Saturday:
+11:00 AM - 12:00 AM
+
+Sunday:
+11:00 AM - 11:00 PM
+
+
+ORDER CONFIRMATION
+
+Customer confirmation is required before an order enters preparation.
+
+An order must contain the required customer and delivery information before confirmation.
+
+The AI must not mark an order as CONFIRMED without explicit customer confirmation.
+
+
+REQUIRED INFORMATION FOR DELIVERY ORDERS
+
+Customer name
+Phone number
+Delivery address
+Order items
+Quantity
+Required size or variant
+Payment method
+
+
+PAYMENT METHODS
+
+Cash on Delivery
+JazzCash
+EasyPaisa
+
+
+CASH ON DELIVERY
+
+Customers can pay the rider in cash when the order is delivered.
+
+Customers should provide the correct amount whenever possible.
+
+
+JAZZCASH
+
+JazzCash is accepted as a payment method.
+
+Payment instructions are provided after order confirmation when applicable.
+
+
+EASYPAISA
+
+EasyPaisa is accepted as a payment method.
+
+Payment instructions are provided after order confirmation when applicable.
+
+
+ORDER MODIFICATION
+
+Customers may request changes before the order enters preparation.
+
+Once preparation has started, changes may not be possible.
+
+The AI should not guarantee a modification after preparation has started.
+
+
+ORDER CANCELLATION
+
+Customers may request cancellation before preparation starts.
+
+Once the order has entered preparation, cancellation may not be possible.
+
+The AI should not guarantee cancellation after preparation has started.
+
+
+REFUNDS
+
+If an order is cancelled before preparation and payment has already been made, refund handling should be reviewed according to the payment method.
+
+The AI should not invent refund amounts or processing times.
+
+Refund cases requiring manual review should be escalated to staff.
+
+
+WRONG ORDER
+
+If a customer receives an incorrect item, the customer should contact the restaurant as soon as possible.
+
+The order number and incorrect item should be provided.
+
+The issue should be reviewed by restaurant staff.
+
+
+MISSING ITEM
+
+If an item is missing from an order, the customer should contact the restaurant with the order number.
+
+The AI should collect the complaint and escalate it when necessary.
+
+
+DAMAGED FOOD
+
+If food arrives damaged or spilled, the customer should report the issue promptly.
+
+The customer may be asked to provide a photo for verification.
+
+
+FOOD ALLERGIES
+
+Customers must inform the restaurant about known allergies before placing an order.
+
+The restaurant cannot guarantee that food is completely free from allergens because ingredients may be prepared in a shared kitchen.
+
+
+SPECIAL REQUESTS
+
+Customers may request:
+
+No onions
+No olives
+No jalapenos
+Extra cheese
+Extra chicken
+Mild spice
+Medium spice
+Spicy
+Extra spicy
+
+Special requests are subject to availability.
+
+
+PRICES
+
+The AI must use the prices contained in the restaurant menu knowledge base.
+
+The AI must not invent prices.
+
+
+DISCOUNTS
+
+Discounts and promotions may change.
+
+The AI should only mention discounts that are available in the current business knowledge base.
+
+The AI must not invent promotional codes.
+
+
+MINIMUM ORDER
+
+There is no minimum food order for standard delivery.
+
+Delivery charges apply according to the delivery area unless the order qualifies for free delivery.
+
+
+DUPLICATE ORDERS
+
+If the system detects that the same customer may have submitted duplicate orders, the order should be reviewed before preparation.
+
+
+CUSTOMER DATA
+
+Customer information should only be used for order processing and delivery.
+
+The system should not expose customer information to other customers.
+
+
+AI LIMITATIONS
+
+The AI must not:
+
+Invent menu items
+Invent prices
+Invent delivery areas
+Invent delivery fees
+Invent discounts
+Invent payment methods
+Promise exact delivery times
+Confirm orders without customer confirmation
+Claim an order was delivered when delivery has not been confirmed
+
+
+ESCALATION
+
+The AI should escalate the conversation to a human staff member when:
+
+A customer requests a refund requiring manual review.
+A customer reports a serious complaint.
+A payment problem occurs.
+The delivery address is outside the listed areas.
+A menu item is unclear or unavailable.
+A customer disputes the charged amount.
+A customer reports an allergy or food safety concern.
+The system cannot confidently determine the correct action.

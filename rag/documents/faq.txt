@@ -1,0 +1,219 @@
+FREQUENTLY ASKED QUESTIONS
+
+GENERAL QUESTIONS
+
+Q: What is the restaurant name?
+A: The restaurant is called Urban Bites.
+
+Q: What type of food do you serve?
+A: Urban Bites serves pizzas, burgers, fries, chicken items, pasta, sandwiches, wraps, drinks, desserts, and meal deals.
+
+Q: What are your operating hours?
+A: Monday to Thursday and Sunday, 11:00 AM to 11:00 PM. Friday and Saturday, 11:00 AM to 12:00 AM.
+
+Q: Are you open on Sunday?
+A: Yes. Sunday operating hours are 11:00 AM to 11:00 PM.
+
+
+MENU QUESTIONS
+
+Q: Do you have BBQ Chicken Pizza?
+A: Yes. BBQ Chicken Pizza is available in Small, Medium, and Large sizes.
+
+Q: How much is a large BBQ Chicken Pizza?
+A: A Large BBQ Chicken Pizza costs Rs. 1550.
+
+Q: How much is a medium BBQ Chicken Pizza?
+A: A Medium BBQ Chicken Pizza costs Rs. 1200.
+
+Q: How much is a small BBQ Chicken Pizza?
+A: A Small BBQ Chicken Pizza costs Rs. 850.
+
+Q: Do you have Chicken Fajita Pizza?
+A: Yes. Chicken Fajita Pizza is available in Small, Medium, and Large sizes.
+
+Q: Do you have Chicken Tikka Pizza?
+A: Yes. Chicken Tikka Pizza is available in Small, Medium, and Large sizes.
+
+Q: Do you have Malai Boti Pizza?
+A: Yes. Malai Boti Pizza is available in Small, Medium, and Large sizes.
+
+Q: Do you have burgers?
+A: Yes. The menu includes Classic Chicken Burger, Zinger Burger, Grilled Chicken Burger, Chicken Cheese Burger, and Double Chicken Burger.
+
+Q: Do you have fries?
+A: Yes. Regular, Large, Masala, Cheese, and Loaded Chicken Fries are available.
+
+Q: Do you sell chicken wings?
+A: Yes. Chicken Wings are available in 6-piece and 12-piece portions.
+
+Q: Do you have pasta?
+A: Yes. Chicken Alfredo Pasta, Chicken Pasta, Creamy Mushroom Pasta, and Spicy Chicken Pasta are available.
+
+Q: Do you have desserts?
+A: Yes. Chocolate Brownie, Chocolate Lava Cake, Ice Cream Cup, and Brownie with Ice Cream are available.
+
+
+CUSTOMIZATION QUESTIONS
+
+Q: Can I remove onions from my pizza?
+A: Yes. Customers can request removal of available toppings such as onions.
+
+Q: Can I remove olives?
+A: Yes. Customers can request no olives.
+
+Q: Can I add extra cheese?
+A: Yes. Extra cheese costs Rs. 150.
+
+Q: Can I add extra chicken?
+A: Yes. Extra chicken costs Rs. 200.
+
+Q: Can I choose the spice level?
+A: Yes. Mild, Medium, Spicy, and Extra Spicy options are available where applicable.
+
+Q: Can I add extra toppings?
+A: Yes. Extra toppings cost Rs. 100 per topping.
+
+
+DELIVERY QUESTIONS
+
+Q: Do you deliver?
+A: Yes. Urban Bites provides delivery within selected areas of Lahore.
+
+Q: Do you deliver to Johar Town?
+A: Yes. Delivery to Johar Town costs Rs. 150.
+
+Q: Do you deliver to Model Town?
+A: Yes. Delivery to Model Town costs Rs. 200.
+
+Q: Do you deliver to Gulberg?
+A: Yes. Delivery to Gulberg costs Rs. 250.
+
+Q: Do you deliver to DHA Lahore?
+A: Yes. Delivery to DHA Lahore costs Rs. 300.
+
+Q: Do you deliver to Township?
+A: Yes. Delivery to Township costs Rs. 150.
+
+Q: Do you deliver to Bahria Town?
+A: Yes. Delivery to Bahria Town Lahore costs Rs. 350.
+
+Q: How long does delivery take?
+A: Normal delivery takes approximately 30-60 minutes.
+
+Q: Can delivery take longer?
+A: Yes. During peak hours, heavy traffic, rain, or high order volume, delivery may take longer.
+
+Q: Is delivery free?
+A: Orders of Rs. 3000 or above qualify for free delivery within the standard delivery zone.
+
+Q: Do you deliver outside Lahore?
+A: The current delivery information only covers selected areas of Lahore.
+
+
+PAYMENT QUESTIONS
+
+Q: What payment methods do you accept?
+A: Cash on Delivery, JazzCash, and EasyPaisa.
+
+Q: Can I pay cash?
+A: Yes. Cash on Delivery is available.
+
+Q: Can I pay using JazzCash?
+A: Yes. JazzCash is accepted.
+
+Q: Can I pay using EasyPaisa?
+A: Yes. EasyPaisa is accepted.
+
+
+ORDER QUESTIONS
+
+Q: What information is required to place a delivery order?
+A: The order requires the customer's name, phone number, delivery address, order items, quantities, required sizes or variants, and payment method.
+
+Q: Do I need to confirm my order?
+A: Yes. Customer confirmation is required before the order enters preparation.
+
+Q: Can I cancel my order?
+A: Cancellation may be requested before preparation starts. Once preparation has started, cancellation may not be possible.
+
+Q: Can I change my order?
+A: Changes can be requested before preparation starts. Changes may not be possible after preparation has started.
+
+Q: Can I add an item after placing an order?
+A: You may request an addition before preparation starts. The request is subject to availability and order status.
+
+Q: What happens if an item is missing?
+A: Contact the restaurant with the order number and details of the missing item.
+
+Q: What if I receive the wrong item?
+A: Contact the restaurant as soon as possible and provide the order number and details of the incorrect item.
+
+
+ORDER STATUS QUESTIONS
+
+Q: What does NEW mean?
+A: The order has been received but has not completed validation.
+
+Q: What does INCOMPLETE mean?
+A: Required order information is missing.
+
+Q: What does READY_FOR_CONFIRMATION mean?
+A: Required order information is available and the customer needs to confirm the order.
+
+Q: What does CONFIRMED mean?
+A: The customer has explicitly confirmed the order.
+
+Q: What does PREPARING mean?
+A: The restaurant has started preparing the order.
+
+Q: What does OUT_FOR_DELIVERY mean?
+A: The order has been handed to the delivery rider.
+
+Q: What does DELIVERED mean?
+A: The order has been delivered.
+
+Q: What does CANCELLED mean?
+A: The order has been cancelled.
+
+
+PROBLEM HANDLING
+
+Q: What should I do if my food arrives damaged?
+A: Contact the restaurant promptly. Staff may request a photo of the damaged order.
+
+Q: What should I do if my order is late?
+A: Contact the restaurant and provide the order number so the order status can be checked.
+
+Q: What if I entered the wrong address?
+A: Contact the restaurant immediately. Address changes may not be possible after the order enters preparation or delivery.
+
+Q: What if my address is outside the delivery area?
+A: The address requires manual verification. The AI should not invent a delivery fee.
+
+
+ALLERGY QUESTIONS
+
+Q: Can I tell you about a food allergy?
+A: Yes. Customers should inform the restaurant about allergies before ordering.
+
+Q: Can the restaurant guarantee allergen-free food?
+A: No. The kitchen may handle multiple ingredients in a shared environment.
+
+
+AI ASSISTANT QUESTIONS
+
+Q: Can the AI confirm my order?
+A: The AI can prepare the order for confirmation, but the customer must explicitly confirm before the order enters preparation.
+
+Q: Can the AI change prices?
+A: No. Prices must come from the business menu.
+
+Q: Can the AI create a discount?
+A: No. The AI can only provide discounts or promotions available in the current business information.
+
+Q: Can the AI promise an exact delivery time?
+A: No. Delivery times are estimates.
+
+Q: What happens if the AI is unsure?
+A: The request should be escalated to restaurant staff rather than guessing.
