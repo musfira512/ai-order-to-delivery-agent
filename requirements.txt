@@ -1,0 +1,5 @@
+crewai
+crewai[litellm]
+streamlit
+groq
+sentence-transformers
